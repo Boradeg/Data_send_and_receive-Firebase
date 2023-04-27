@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dataSenReceive</string>
+    <string name="enter_name">enter name</string>
+    <string name="save">Save</string>
+</resources>

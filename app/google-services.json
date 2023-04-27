@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840636196022",
+    "project_id": "datasenreceive",
+    "storage_bucket": "datasenreceive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840636196022:android:8e3d83757944edf66eb217",
+        "android_client_info": {
+          "package_name": "com.example.datasenreceive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840636196022-s4gbh03cji19rpvr4vq3ctj7r52rblro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZHbTAuHiS9Z7p5WxNyw10_Njd_Z_JLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840636196022-s4gbh03cji19rpvr4vq3ctj7r52rblro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
